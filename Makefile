@@ -1,2 +1,2 @@
 test:
-        go test -json ./... ; exit 0
+	go test -json ./... ; exit 0
